@@ -9,7 +9,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds a widget to WordPress that allows you to display the recent posts with an exerpt in the sidebar.
+This plugin allows you to display the most recent posts with an exerpt in a WOrdPress sidebar widget area.
 
 == Description ==
 
@@ -18,6 +18,7 @@ The Recent Posts Widget Plus plugin allows you to display a list of the most rec
 == Screenshots ==
 
 1. You can set the widget title, the number of posts, the length of the excerpt and select a category to display the recent posts from or choose to display the recent posts with a certain tag.
+2. This is an example of how the widget can look.
 
 == Installation ==
 
@@ -35,8 +36,7 @@ The Recent Posts Widget Plus plugin allows you to display a list of the most rec
 
 = What is the difference with the default Recent Post widget =
 
-All WordPress installs come with a default widget for showing recent posts. This default widget does neither give you any customization options nor allows you to display an excerpt from the post.
-
+All WordPress installs come with a default widget for showing recent posts. With the Recent Posts Widget Plus plugin you can not only show the post titles but also an excerpt from the post and define how many characters of the excerpt are displayed.
 
 == Changelog ==
 
