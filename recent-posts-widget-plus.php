@@ -40,8 +40,8 @@ function rpwp_excerpt($count){
 class RecentPostsWidgetPlus extends WP_Widget {
 
 	function RecentPostsWidgetPlus() {
-			$widget_ops = array('classname' => 'recent-posts-plus', 'description' => __( 'Your most recent posts, with optional excerpts') );
-			$this->WP_Widget('RecentPostsWidgetPlus', __('Recent Posts Widget Plus'), $widget_ops);
+		$widget_ops = array('classname' => 'recent-posts-plus', 'description' => __( 'Your most recent posts, with optional excerpts') );
+		$this->WP_Widget('RecentPostsWidgetPlus', __('Recent Posts Widget Plus'), $widget_ops);
 	}
 	
 	function widget( $args, $instance ) {
@@ -130,7 +130,7 @@ class RecentPostsWidgetPlus extends WP_Widget {
 		</p>
 
 		<p>
-			<label for="<?php echo $this->get_field_id('linktext'); ?>"><?php _e('Linktext:'); ?></label> 
+			<label for="<?php echo $this->get_field_id('linktext'); ?>"><?php _e('Link text:'); ?></label> 
 			<input class="widefat" id="<?php echo $this->get_field_id('linktext'); ?>" name="<?php echo $this->get_field_name('linktext'); ?>" type="text" value="<?php echo $instance['linktext']; ?>" />
 		</p>
 		
