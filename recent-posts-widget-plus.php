@@ -40,7 +40,7 @@ function rpwp_excerpt($count){
 class RecentPostsWidgetPlus extends WP_Widget {
 
 	function RecentPostsWidgetPlus() {
-		$widget_ops = array('classname' => 'recent-posts-plus', 'description' => __( 'Your most recent posts, with optional excerpts') );
+		$widget_ops = array('classname' => 'recent-posts-plus', 'description' => __( 'The most recent posts on your site with excerpts') );
 		$this->WP_Widget('RecentPostsWidgetPlus', __('Recent Posts Widget Plus'), $widget_ops);
 	}
 	
