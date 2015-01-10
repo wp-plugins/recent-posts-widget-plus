@@ -1,11 +1,11 @@
 === Recent Posts Widget Plus ===
 Contributors: vanderwijk
-Author URI: http://www.vanderwijk.com/
+Author URI: http://vanderwijk.nl/
 Donate link: http://www.vanderwijk.com/wordpress/support/
 Tags: widget, sidebar, recent post, recent posts, excerpt, recent, post
 Requires at least: 2.9.2
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,14 +36,12 @@ The Recent Posts Widget Plus plugin allows you to display a list of the most rec
 
 = What is the difference with the default Recent Post widget =
 
-All WordPress installs come with a default widget for showing recent posts. The advantage of using the Recent Posts Widget Plus plugin, is that you can not only show the post titles but also an excerpt from the post and define how many characters of the excerpt are displayed.
+All WordPress installs come with a default widget for showing recent posts. The advantage of using the Recent Posts Widget Plus plugin, is that you can not only show the post titles but also an excerpt from the post and define how many characters of the excerpt are displayed. This plugin also allows you to display recent posts from a custom post type.
 
 == Changelog ==
 
-= 1.0 =
-First release
-
-== Upgrade Notice ==
+= 1.1 =
+Fixed debug notices and added the option to select a custom post type.
 
 = 1.0 =
 First release
