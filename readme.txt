@@ -4,7 +4,7 @@ Author URI: http://vanderwijk.nl/
 Donate link: http://www.vanderwijk.com/wordpress/support/
 Tags: widget, sidebar, recent post, recent posts, excerpt, recent, post
 Requires at least: 2.9.2
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
